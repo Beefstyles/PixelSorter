@@ -1,0 +1,14 @@
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\bin\Debug\PixelSorterWPF.exe.config
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\bin\Debug\PixelSorterWPF.exe
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\bin\Debug\PixelSorterWPF.pdb
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF.csprojResolveAssemblyReference.cache
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\App.g.cs
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF_MarkupCompile.cache
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF_MarkupCompile.lref
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\MainWindow.baml
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF.g.resources
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF.Properties.Resources.resources
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF.csproj.GenerateResource.Cache
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF.exe
+C:\Users\Yggdrasil\Documents\PixelSorter\PixelSorterWPF\PixelSorterWPF\obj\Debug\PixelSorterWPF.pdb
