@@ -20,6 +20,8 @@ namespace PixelSorterWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        BitmapImage bmap = new BitmapImage();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -27,13 +29,26 @@ namespace PixelSorterWPF
 
         private void MainImageLoaded(object sender, RoutedEventArgs e)
         {
-            BitmapImage bmap = new BitmapImage();
             bmap.BeginInit();
             bmap.UriSource = new Uri("C:\\Users\\Yggdrasil\\Documents\\PixelSorter\\Space.jpg");
             bmap.EndInit();
 
             var image = sender as Image;
             image.Source = bmap;
+
+        }
+
+        private void SortImage(object sender, RoutedEventArgs e)
+        {
+            double imageWidth = bmap.Width;
+            double imageHeight = bmap.Height;
+            for (int i = 0; i < imageWidth; i++)
+            {
+                for (int j = 0; j < imageHeight; j++)
+                {
+                }
+
+            }
 
         }
     }

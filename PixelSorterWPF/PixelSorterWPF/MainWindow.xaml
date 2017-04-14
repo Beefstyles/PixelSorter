@@ -6,13 +6,22 @@
         xmlns:local="clr-namespace:PixelSorterWPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Image HorizontalAlignment="Left"
+    <DockPanel>
+        <Button DockPanel.Dock="Bottom" Click="SortImage">Sort</Button>
+
+        <Image DockPanel.Dock="Left"
                Height="500"
                Margin="10,10,0,0"
                VerticalAlignment="Top"
                Loaded="MainImageLoaded"
                />
-        <Button>Test</Button>
-    </Grid>
+        <Image DockPanel.Dock="Right"
+               Height="500"
+               Margin="10,10,0,0"
+               VerticalAlignment="Top"
+               Loaded="MainImageLoaded"
+               />
+    </DockPanel>
+
+
 </Window>
